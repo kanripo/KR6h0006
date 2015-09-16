@@ -1,25 +1,20 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:06:11.655293
+#+DATE: 2015-08-30 20:06:15.584994
 #+TITLE: 寶星陀羅尼經
 #+PROPERTY: CBETA_ID T13n0402
 #+PROPERTY: ID KR6h0006
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 13, No. 402
 #+PROPERTY: VOL 13
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@QISHA
 #+PROPERTY: LASTPB <pb:KR6h0006_T_002-0541b> 
 #+PROPERTY: JUAN 2
 ¶
-
- 《寶星陀羅尼經》卷第二¶
+《寶星陀羅尼經》卷第二¶
 ¶
 唐天竺三藏波羅頗蜜多羅譯¶
 
-2本事品
-:PROPERTIES:
-:head: 本事品第二
-:END:
-¶
+本事品第二¶
 
 時魔妓女及魔王諸子并其眷屬，白佛言：「希¶
 有，婆伽婆！我等今者志求如是相、如是乘、¶
