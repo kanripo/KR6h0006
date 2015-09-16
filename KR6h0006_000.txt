@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 寶星陀羅尼經
+#+DATE: 2015-08-30 20:06:12.196070
+#+PROPERTY: JUAN 0
